@@ -6,7 +6,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
-        <p>Easy Frontend</p>
+        <p>Easy Frontend greate by MinhHungLe </p>
         <a
           className='App-link'
           href='https://reactjs.org'
@@ -21,4 +21,3 @@ function App() {
 }
 
 export default App;
-  
